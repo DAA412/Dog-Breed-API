@@ -23,7 +23,7 @@ Dog Breed API - это RESTful веб-сервис для управления �
 
 ```bash
 # Клонировать репозиторий
-git clone https://github.com/your-repo/dog-breed-api.git
+git clone https://github.com/DAA412/Dog-Breed-API.git
 cd practice_3
 
 # Создать файл .env на основе примера
